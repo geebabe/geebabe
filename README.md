@@ -2,7 +2,7 @@
 I'm an AI/ML enthusiast and exploring multiple tech stacks<br>My interest lie in Web development.<br>Fun fact is: Love Java don't know why
 
 
-## 🌐 Socials:
+## 💬 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahtisham.shaikh.1214) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahtishamshaikh1214) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahtisham-shaikh-a308ab287) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26632888) 
 
 # 💻 Tech Stack:
