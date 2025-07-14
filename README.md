@@ -8,26 +8,26 @@ I'm an AI/ML enthusiast and exploring multiple tech stacks<br>My interest lie in
 # 💻 Tech Stack:
 <div align="center">
 
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" height="40"/>
-<img src="assets/c++.png" height="40"/>
-<img src="assets/html.png" height="40"/>
-<img src="assets/css.png" height="40"/>
-<img src="assets/javascript.png" height="40"/>
-<img src="assets/java.png" height="40"/>
-<img src="assets/python.png" height="40"/>
-<img src="assets/react.png" height="40"/>
-<img src="assets/springboot.png" height="40"/>
-<img src="assets/mysql.png" height="40"/>
-<img src="assets/numpy.png" height="40"/>
-<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" height="60"/>
+<img src="assets/c++.png" height="60"/>
+<img src="assets/html.png" height="60"/>
+<img src="assets/css.png" height="60"/>
+<img src="assets/javascript.png" height="60"/>
+<img src="assets/java.png" height="60"/>
+<img src="assets/python.png" height="60"/>
+<img src="assets/react.png" height="60"/>
+<img src="assets/springboot.png" height="60"/>
+<img src="assets/mysql.png" height="60"/>
+<img src="assets/numpy.png" height="60"/>
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" height="60"/>
 <img src="assets/tensorflow.png" height="40"/>
 <img src="assets/pandas.png" height="40"/>
 <img src="assets/pytorch.png" height="40"/>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" height="40"/>
-<img src="assets/matplotlib.png" height="40"/>
-<img src="assets/git.png" height="40"/>
-<img src="assets/github.png" height="40"/>
-<img src="assets/flutter.png" height="40"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" height="60"/>
+<img src="assets/matplotlib.png" height="60"/>
+<img src="assets/git.png" height="60"/>
+<img src="assets/github.png" height="60"/>
+<img src="assets/flutter.png" height="60"/>
 
 </div>
 
