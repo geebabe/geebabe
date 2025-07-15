@@ -33,7 +33,7 @@ I'm an AI/ML enthusiast and exploring multiple tech stacks<br>My interest lie in
 
 # 📊 LeetCode Stats:
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Ahtisham1214-orange?logo=leetcode&style=for-the-badge)](https://leetcode.com/u/Ahtisham1214/)  
-![Detailed Stats](https://leetcard.jacoblin.cool/Ahtisham1214?theme=light)
+![Detailed Stats](https://leetcard.jacoblin.cool/Ahtisham1214?theme=unicorn&ext=heatmap)
 
 
 # 📊 GitHub Stats:
