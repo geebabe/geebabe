@@ -22,38 +22,49 @@
 <!-- ![](https://raw.githubusercontent.com/maekawatoshiki/maekawatoshiki/master/profile-summary-card-output/omni/3-stats.svg) -->
 </p>
 
-<hr>
+-----------------------------------------------------------
 
 # 💫 About Me: <img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ I'm an AI/ML enthusiast<br>
 ⚡ Exploring multiple tech stacks<br>
 📫 My interest lie in Web development<br>
-👯 Love Java don't know why<br>
-<hr>
+👯 Love Java don't know why<br><br><br>
 
-# 💻 Tech Stack:
-<div align="center">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" height="40"/>
-    <img src="assets/c++.png" height="40"/>
-    <img src="assets/html.png" height="40"/>
-    <img src="assets/css.png" height="40"/>
-    <img src="assets/java.png" height="40"/>
-    <img src="assets/javascript.png" height="40"/>
-    <img src="assets/python.png" height="40"/>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="40"/>
-    <img src="assets/springboot.png" height="40"/>
-    <img src="assets/mysql.png" height="40"/>
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" height="40"/>
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white" height="40"/>
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" height="40"/>
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" height="40"/>
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" height="40"/>
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" height="40"/>
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" height="40"/>
-    <img src="assets/git.png" height="40"/>
-    <img src="assets/github.png" height="40"/>
-    <img src="assets/flutter.png" height="40"/>
-</div>
+
+<h2>💻Tech Stack:</h2><br><br>
+<p>
+<b>Languages:</b>&nbsp;&nbsp;&nbsp;
+    <img src="assets/c.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/c++.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/html.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/css.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/java.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/javascript.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/python.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/dart.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/mysql.png" height="40"/><br><br><br>
+<b>Libraries & Frameworks:</b>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="40"/>&nbsp;&nbsp;
+    <img src="assets/springboot.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/flutter.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/numpy.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/keras.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/tensorflow.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/pandas.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/pytorch.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/scikit-learn.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/matplotlib.png" height="40"/><br><br><br>
+    <b>Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
+    <img src="assets/git.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/github.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/Clion.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/IntelliJIDEA.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/PyCharm.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/androidstudio.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/vsCode.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/copilot.png" height="40"/>&nbsp;&nbsp;
+
+</p><br><br>
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
     <a href="https://leetcode.com/u/Ahtisham1214/" style="display: inline-flex; align-items: center; text-decoration: none;">
