@@ -24,7 +24,7 @@
 
 -----------------------------------------------------------
 
-# 💫 About Me: <img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<h1> 💫 About Me:</h1> <img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ I'm an AI/ML enthusiast<br>
 ⚡ Exploring multiple tech stacks<br>
 📫 My interest lie in Web development<br>
