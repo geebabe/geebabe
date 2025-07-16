@@ -28,7 +28,7 @@
 ✨ I'm an AI/ML enthusiast<br>
 ⚡ Exploring multiple tech stacks<br>
 📫 My interest lie in Web development<br>
-👯 Love Java don't know why<br><br><br>
+👯 Love Java don't know why<br><br><br><br><br><br><br><br><br><br>
 
 
 **💻Tech Stack:**<br><br>
