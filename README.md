@@ -38,8 +38,8 @@
     <img src="assets/c++.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/html.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/css.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/Java.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/JavaScript.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/java.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/javascript.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/python.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/dart.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/mysql.png" height="40"/><br><br><br>
