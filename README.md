@@ -1,5 +1,3 @@
-<body style="background-color:#191622; color:#ff79c6;">
-
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
 </p>
@@ -24,16 +22,16 @@
 <!-- ![](https://raw.githubusercontent.com/maekawatoshiki/maekawatoshiki/master/profile-summary-card-output/omni/3-stats.svg) -->
 </p>
 
-<hr style="border: 1px solid #e8df7a;">
+<hr>
 
-<h2 style="color:#e8df7a;">💫 About Me:</h2>
-<p style="color:#ff79c6;">
-I'm an AI/ML enthusiast and exploring multiple tech stacks.<br>
-My interest lie in Web development.<br>
-Fun fact is: Love Java don't know why
-</p>
+# 💫 About Me: <img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+✨ I'm an AI/ML enthusiast<br>
+⚡ Exploring multiple tech stacks<br>
+📫 My interest lie in Web development<br>
+👯 Love Java don't know why<br>
+<hr>
 
-<h2 style="color:#e8df7a;">💻 Tech Stack:</h2>
+# 💻 Tech Stack:
 <div align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" height="40"/>
     <img src="assets/c++.png" height="40"/>
