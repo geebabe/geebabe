@@ -19,13 +19,13 @@
     <a href="" style="margin: 0 10px;">
         <img src="assets/instagram.png" height="24" alt="Instagram">
     </a>
-    <span style="display:inline-block; width: 15px;color:"></span>
+    <span style="display:inline-block; width: 15px;"></span>
     <a href="https://mail.google.com/mail/?view=cm&to=ahtishamshaikh1214@gmail.com" target="_blank" style="margin: 0 10px;">
         <img src="assets/gmail.png" height="20" alt="Gmail">
     </a>
 </p>
 
-<hr style="border: 1px solid #ddcb0aff;">
+<hr style="border: 1px solid #e8df7a;">
 
 <h2 style="color:#e8df7a;">💫 About Me:</h2>
 <p style="color:#ff79c6;">
@@ -57,7 +57,6 @@ Fun fact is: Love Java don't know why
     <img src="assets/github.png" height="40"/>
     <img src="assets/flutter.png" height="40"/>
 </div>
-
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
     <a href="https://leetcode.com/u/Ahtisham1214/" style="display: inline-flex; align-items: center; text-decoration: none;">
@@ -94,5 +93,3 @@ Fun fact is: Love Java don't know why
         <img src="https://visitcount.itsvg.in/api?id=Ahtisham-1214&icon=0&color=4">
     </a>
 </p> -->
-
-</body>
