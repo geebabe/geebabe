@@ -2,24 +2,24 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=ff79c6&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" /></a>
 </p>
 <!--- Adding Header Elements -->
 <p align="center">
-    <a href="https://linkedin.com/in/ahtisham-shaikh-a308ab287" style="margin: 0 10px;">
-        <img src="assets/linkedIn.png" height="20" alt="LinkedIn">
+    <a href="https://linkedin.com/in/ahtisham-shaikh-a308ab287">
+        <img src="assets/linkedIn.png" height="40" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/26632888">
-        <img src="assets/stackoverflow.png" height="20" alt="Stack Overflow">
+        <img src="assets/stackoverflow.png" height="40" alt="Stack Overflow">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.faebook.com/ahtisham.shaikh.1214">
-        <img src="assets/facebook.png" height="20" alt="Facebook">
+    <a href="https://facebook.com/ahtisham.shaikh.1214">
+        <img src="assets/facebook.png" height="40" alt="Facebook">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="" style="margin: 0 10px;">
-        <img src="assets/instagram.png" height="24" alt="Instagram">
+    <a href="https://instagram.com/ahtishamshaikh1214">
+        <img src="assets/instagram.png" height="40" alt="Instagram">
     </a>&nbsp;&nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&to=ahtishamshaikh1214@gmail.com" target="_blank">
-        <img src="assets/gmail.png" height="20" alt="Gmail">
+    <a href="https://mail.google.com/mail/?view=cm&to=ahtishamshaikh1214@gmail.com">
+        <img src="assets/gmail.png" height="40" alt="Gmail">
     </a>
 </p>
 
