@@ -60,9 +60,8 @@ Fun fact is: Love Java don't know why
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
     <a href="https://leetcode.com/u/Ahtisham1214/" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="assets/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;">
+        <img src="assets/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
         <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
-    </a>
 </h2>
 
 <p>
@@ -73,9 +72,9 @@ Fun fact is: Love Java don't know why
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
     <a href="https://github.com/Ahtisham-1214" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="assets/github.png" height="40" style="vertical-align: middle; margin-right: 8px;">
+        <img src="assets/github.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
         <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
-    </a>
+    
 </h2>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Ahtisham-1214&theme=omni&hide_border=false&include_all_commits=false&count_private=false"><br>
