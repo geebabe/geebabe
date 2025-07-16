@@ -38,13 +38,13 @@
     <img src="assets/c++.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/html.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/css.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/java.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/javascript.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/Java.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/JavaScript.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/python.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/dart.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/mysql.png" height="40"/><br><br><br>
 <b>Libraries & Frameworks:</b>&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" height="40"/>&nbsp;&nbsp;
+    <img src="assets/react.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/springboot.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/flutter.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/numpy.png" height="40"/>&nbsp;&nbsp;
@@ -57,7 +57,7 @@
     <b>Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
     <img src="assets/git.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/github.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/Clion.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/CLion.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/IntelliJIDEA.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/PyCharm.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/androidstudio.png" height="40"/>&nbsp;&nbsp;
