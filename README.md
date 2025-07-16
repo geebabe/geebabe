@@ -1,8 +1,7 @@
 <body style="background-color:#191622; color:#ff79c6;">
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
 </p>
 <!--- Adding Header Elements -->
 <p align="center">
@@ -21,6 +20,8 @@
     <a href="https://mail.google.com/mail/?view=cm&to=ahtishamshaikh1214@gmail.com">
         <img src="assets/gmail.png" height="40" alt="Gmail">
     </a>
+
+<!-- ![](https://raw.githubusercontent.com/maekawatoshiki/maekawatoshiki/master/profile-summary-card-output/omni/3-stats.svg) -->
 </p>
 
 <hr style="border: 1px solid #e8df7a;">
