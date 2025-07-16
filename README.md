@@ -1,26 +1,24 @@
 <body style="background-color:#191622; color:#ff79c6;">
 
-<h1 align="center" style="color:#ff79c6;"> Hi there, I'm <a href="https://www.linkedin.com/in/ahtisham-shaikh-a308ab287/" style="color:#e8df7a;">Ahtisham</a> </h1>
-
+<p align="center">
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=ff79c6&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <!--- Adding Header Elements -->
 <p align="center">
     <a href="https://linkedin.com/in/ahtisham-shaikh-a308ab287" style="margin: 0 10px;">
         <img src="assets/linkedIn.png" height="20" alt="LinkedIn">
-    </a>
-    <span style="display:inline-block; width: 15px;"></span>
-    <a href="https://stackoverflow.com/users/26632888" style="margin: 0 10px;">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/26632888">
         <img src="assets/stackoverflow.png" height="20" alt="Stack Overflow">
-    </a>
-    <span style="display:inline-block; width: 15px;"></span>
-    <a href="https://www.faebook.com/ahtisham.shaikh.1214" style="margin: 0 10px;">
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.faebook.com/ahtisham.shaikh.1214">
         <img src="assets/facebook.png" height="20" alt="Facebook">
-    </a>
-    <span style="display:inline-block; width: 15px;"></span>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="" style="margin: 0 10px;">
         <img src="assets/instagram.png" height="24" alt="Instagram">
-    </a>
-    <span style="display:inline-block; width: 15px;"></span>
-    <a href="https://mail.google.com/mail/?view=cm&to=ahtishamshaikh1214@gmail.com" target="_blank" style="margin: 0 10px;">
+    </a>&nbsp;&nbsp;
+    <a href="https://mail.google.com/mail/?view=cm&to=ahtishamshaikh1214@gmail.com" target="_blank">
         <img src="assets/gmail.png" height="20" alt="Gmail">
     </a>
 </p>
