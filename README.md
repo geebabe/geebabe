@@ -79,7 +79,7 @@
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
     <a href="https://github.com/Ahtisham-1214" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="assets/github.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
+        <img src="assets/github_social media_icon.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
         <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
     
 </h2>
