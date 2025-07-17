@@ -56,7 +56,7 @@
     <img src="assets/matplotlib.png" height="40"/><br><br><br>
     <b>Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
     <img src="assets/git.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/github.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/githubicon.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/CLion.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/IntelliJIDEA.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/PyCharm.png" height="40"/>&nbsp;&nbsp;
