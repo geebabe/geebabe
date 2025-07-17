@@ -19,7 +19,6 @@
         <img src="assets/gmail.png" height="40" alt="Gmail">
     </a>
 
-<!-- ![](https://raw.githubusercontent.com/maekawatoshiki/maekawatoshiki/master/profile-summary-card-output/omni/3-stats.svg) -->
 </p>
 
 -----------------------------------------------------------
@@ -85,18 +84,37 @@
     
 </h2>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Ahtisham-1214&theme=omni&hide_border=false&include_all_commits=false&count_private=false"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahtisham-1214&theme=omni"><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahtisham-1214&theme=omni&hide_border=false"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact">&nbsp;&nbsp;&nbsp;
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahtisham-1214&theme=omni&exclude={}"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahtisham-1214&theme=omni">
 </p>
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=191622&symbolColor=e8df7a">
 
-<hr style="border: 1px solid #e8df7a;">
-<!-- 
-<p>
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=Ahtisham-1214&icon=0&color=4">
-    </a>
-</p> -->
+<hr>
+
+
+
+<!-- <details open> 
+  <summary><h2>📕 Top Projects I've Contributed To</h2></summary>
+
+  <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
+  <!-- <p align="left">
+    <a href="https://github.com/pallets/flask"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pallets&repo=flask&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="flask"></a>
+    <a href="https://github.com/badges/shields"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=badges&repo=shields&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="shields"></a>
+    <a href="https://github.com/simple-icons/simple-icons"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=simple-icons&repo=simple-icons&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="simple-icons"></a>
+    <a href="https://github.com/Rapptz/discord.py"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Rapptz&repo=discord.py&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="discord.py"></a>
+    <a href="https://github.com/o2sh/onefetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=o2sh&repo=onefetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="onefetch"></a>
+    <a href="https://github.com/scrapinghub/dateparser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=scrapinghub&repo=dateparser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="dateparser"></a>
+    <a href="https://github.com/python-babel/babel"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=python-babel&repo=babel&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="babel"></a>
+  
+  </p>
+
+
+  <p align="left">
+    <a href="https://github.com/DenverCoderOne/My-Contributions/blob/main/README.md"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=white&logo=fork"/></a>
+  </p>
+</details> --> 
