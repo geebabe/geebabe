@@ -72,8 +72,8 @@
 
 <p>
     <a href="https://leetcode.com/u/Ahtisham1214/">
-    </a>
     <img src="https://leetcard.jacoblin.cool/Ahtisham1214?theme=unicorn&ext=heatmap">
+    </a>
 </p>
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
