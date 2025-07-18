@@ -113,8 +113,10 @@
 
 <details open> 
   <summary><h2>📌 Pinned</h2></summary>
+    <p>
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Expense-Tracker-Flutter&theme=omni)](https://github.com/Ahtisham-1214/Expense-Tracker-Flutter)
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Encrption-Description&theme=omni)](https://github.com/Ahtisham-1214/Encryption-And-Description-using-Flask)
     [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=TailorManagementWeb&theme=omni)](https://github.com/Ahtisham-1214/TailorManagementWeb)    
+    </p>
 </details> 
 <hr>
