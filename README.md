@@ -113,13 +113,14 @@
 
 <details open> 
   <summary><h2>📌 Pinned</h2></summary>
-   <p>
     <a href="https://github.com/Ahtisham-1214/Expense-Tracker-Flutter.git">
  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Expense-Tracker-Flutter&theme=omni" alt="Expense-Tracker-Flutter">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Ahtisham-1214/Encryption-And-Description-using-Flask.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Encryption-Description&theme=omni" alt="Expense-Tracker-Flutter">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Encryption-Description&theme=omni" alt="Encryption & Decrption">
 </a>
-  </p>
+<a href="https://github.com/Ahtisham-1214/TailorManagementWeb.git">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=TailorManagementWeb&theme=omni" alt="Tailor Management Web App">
+</a>    
 </details> 
 <hr>
