@@ -3,7 +3,7 @@
 </p>
 <!--- Adding Header Elements -->
 <p align="center">
-    <a href="https://linkedin.com/in/ahtisham-shaikh-a308ab287">
+    <a href="https://linkedin.com/in/ahtishamshaikh1214">
         <img src="assets/linkedIn.png" height="40" alt="LinkedIn">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/26632888">
