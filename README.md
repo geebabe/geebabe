@@ -124,3 +124,31 @@
 </a>    
 </details> 
 <hr>
+<details open> 
+  <summary><h2>★ Certificates & Acheivements</h2></summary>
+    <a href="assets/google-ai-essentials.png">
+ <img width="200" src="assets/google-ai-essentials.png">
+</a><br>
+<a href="assets/internship.png">
+ <img width="150" src="assets/internship.png">
+</a>
+<a href="assets/githubworkshop.jpg">
+ <img width="150" src="assets/githubworkshop.jpg">
+</a>
+<a href="assets/Linkedinworkshop.png">
+ <img width="150" src="assets/Linkedinworkshop.png">
+</a>
+<a href="assets/sibafest.jpg">
+ <img width="150" src="assets/sibafest.jpg">
+</a>  
+<a href="assets/mlsapython.jpg">
+ <img width="150" src="assets/mlsapython.jpg">
+</a>
+<a href="assets/mlsaAI.jpg">
+ <img width="150" src="assets/mlsaAI.jpg">
+</a>
+<a href="assets/mlsaML.jpg">
+ <img width="150" src="assets/mlsaML.jpg">
+</a>   
+</details> 
+<hr>
