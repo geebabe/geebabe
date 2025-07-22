@@ -140,7 +140,7 @@
 </a>
 <a href="assets/sibafest.jpg">
  <img width="150" src="assets/sibafest.jpg">
-</a>  
+</a><br>
 <a href="assets/mlsapython.jpg">
  <img width="150" src="assets/mlsapython.jpg">
 </a>
