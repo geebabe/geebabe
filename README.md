@@ -138,8 +138,8 @@
 <a href="assets/Linkedinworkshop.png">
  <img width="150" src="assets/Linkedinworkshop.png">
 </a>
-<a href="assets/sibafest.jpg">
- <img width="150" src="assets/sibafest.jpg">
+<a href="assets/pandasworkshop.png">
+ <img width="150" src="assets/pandasworkshop.png">
 </a>  
 <a href="assets/mlsapython.jpg">
  <img width="150" src="assets/mlsapython.jpg">
@@ -149,6 +149,9 @@
 </a>
 <a href="assets/mlsaML.jpg">
  <img width="150" src="assets/mlsaML.jpg">
+</a>
+<a href="assets/sibafest.jpg">
+ <img width="150" src="assets/sibafest.jpg">
 </a>   
 </details> 
 <hr>
