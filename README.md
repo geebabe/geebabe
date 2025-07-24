@@ -140,7 +140,7 @@
 </a>
 <a href="assets/pandasworkshop.png">
  <img width="150" src="assets/pandasworkshop.png">
-</a>  
+</a><br>  
 <a href="assets/mlsapython.jpg">
  <img width="150" src="assets/mlsapython.jpg">
 </a>
