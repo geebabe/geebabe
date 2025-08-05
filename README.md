@@ -23,7 +23,8 @@
 
 -----------------------------------------------------------
 
-**💫 About Me:** <img src="assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ahtisham-1214&theme=dark_lover)](https://github.com/Ahtisham-1214/github-profile-trophy) -->
+**💫 About Me:** <img src="assets/mygif.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ I'm an AI/ML enthusiast<br>
 ⚡ Exploring multiple tech stacks<br>
 📫 My interest lie in Web development<br>
@@ -61,7 +62,8 @@
     <img src="assets/androidstudio.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/vsCode.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/copilot.png" height="40"/>&nbsp;&nbsp;
-
+    <br><br><br>
+    <h2><img src="assets/database-file (1).png" height="30">&nbsp;&nbsp;&nbsp;Databases :<//h2>&nbsp;&nbsp;&nbsp;
 </p><br><br>
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
