@@ -41,7 +41,7 @@
     <img src="assets/java.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/python.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/dart.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/mysql.png" height="40"/><br><br><br>
+    <br><br><br>
 <b>Libraries & Frameworks:</b>&nbsp;&nbsp;&nbsp;
     <img src="assets/react.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/springboot.png" height="40"/>&nbsp;&nbsp;
@@ -63,7 +63,7 @@
     <img src="assets/vsCode.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/copilot.png" height="40"/>&nbsp;&nbsp;
     <br><br><br>
-    <h2><img src="assets/database-file (1).png" height="30">&nbsp;&nbsp;&nbsp;Databases :<//h2>&nbsp;&nbsp;&nbsp;
+    <img src="assets/databases.png" height="40">&nbsp;&nbsp;&nbsp;<b>Databases :</b>&nbsp;&nbsp;&nbsp;<img src="assets/mysql.png" height="40">
 </p><br><br>
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
