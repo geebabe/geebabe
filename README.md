@@ -92,6 +92,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahtisham-1214&theme=omni&exclude={exclude}">&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahtisham-1214&theme=omni&utcOffset=+5">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahtisham-1214&theme=omni">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahtisham-1214&point=e8df7a&title_color=e8df7a&bg_color=191622&line=ff7ac7&hide_border=true">
+    <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
+    <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/snake/github-snake-dark.svg" width="100%">
 </p>
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
