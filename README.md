@@ -1,3 +1,4 @@
+![](./profile-3d-contrib/profile-green-animate.svg)
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
 </p>
