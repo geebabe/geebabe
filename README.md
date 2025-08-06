@@ -1,4 +1,3 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
 </p>
@@ -85,6 +84,7 @@
     
 </h2>
 <p>
+    <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahtisham-1214&theme=omni"><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahtisham-1214&theme=omni&hide_border=false"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact">&nbsp;&nbsp;&nbsp;
