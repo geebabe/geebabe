@@ -21,9 +21,9 @@
 
 </p>
 
-<img src="assets/line.gif" height="50" width="100%">
+<img src="assets/line.gif" height="20" width="100%">
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ahtisham-1214&theme=dark_lover)](https://github.com/Ahtisham-1214/github-profile-trophy) -->
-**💫 About Me:** <img src="assets/mygif.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
+**💫 About Me:** <img src="assets/mygif2.gif"  min-width="300px" max-width="300px" width="350px" align="right"><img src="assets/mygif.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ I'm an AI/ML enthusiast<br>
 ⚡ Exploring multiple tech stacks<br>
 📫 My interest lie in Web development<br>
