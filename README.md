@@ -86,11 +86,12 @@
 <p>
     <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahtisham-1214&theme=omni"><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahtisham-1214&theme=omni&hide_border=false"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact">&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahtisham-1214&theme=omni&hide_border=true"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&hide_border=false&include_all_commits=false&count_private=false&hide_border=true&custom_title=Ahtisham's%20Most%20Used%20Languages&card_width=400">&nbsp;&nbsp;&nbsp;
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahtisham-1214&theme=omni&exclude={}"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahtisham-1214&theme=omni&exclude={exclude}">&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahtisham-1214&theme=omni&utcOffset=+5">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahtisham-1214&theme=omni">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahtisham-1214&point=e8df7a&title_color=e8df7a&bg_color=191622&line=ff7ac7&hide_border=true">
 </p>
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
