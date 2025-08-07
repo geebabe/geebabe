@@ -84,16 +84,15 @@
     
 </h2>
 <p>
-    <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahtisham-1214&theme=omni"><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahtisham-1214&theme=omni&hide_border=true"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&hide_border=false&include_all_commits=false&count_private=false&hide_border=true&custom_title=Ahtisham's%20Most%20Used%20Languages&card_width=400">&nbsp;&nbsp;&nbsp;
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahtisham-1214&theme=omni&exclude={}"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahtisham-1214&theme=omni&exclude={exclude}">&nbsp;&nbsp;&nbsp;<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahtisham-1214&theme=omni&utcOffset=+5">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahtisham-1214&theme=omni">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&hide_border=false&include_all_commits=false&count_private=false&hide_border=true&custom_title=Ahtisham's%20Most%20Used%20Languages&card_width=400"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahtisham-1214&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahtisham-1214&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahtisham-1214&theme=omni&utcOffset=+5" width="33%"><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahtisham-1214&theme=omni&hide_border=true" width="100%"><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahtisham-1214&theme=omni" width="100%">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahtisham-1214&point=e8df7a&title_color=e8df7a&bg_color=191622&line=ff7ac7&hide_border=true">
     <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
-    <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/snake/github-snake-dark.svg" width="100%">
+    <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/snake/github-snake-dark.svg" width="100%"><br>
+    <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
 </p>
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
@@ -160,5 +159,5 @@
 </a>   
 </details> 
 <img src="assets/line.gif" height="100" width="100%">
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150" align="right"><img src="assets/Duck Mascots Sticker by GitHub.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
+<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150" align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
 <img src="assets/footer.svg" width="100%">
