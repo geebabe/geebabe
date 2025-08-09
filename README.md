@@ -22,8 +22,8 @@
 </p>
 
 <img src="assets/line.gif" height="20" width="100%">
-<img width="390" alt="🦑" src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/github-metrics.svg"><img src="assets/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right"><br>
-<img  width="390" alt="🦑" src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/metrics.plugin.isocalendar.fullyear.svg">
+<img src="assets/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right"><img width="300" alt="🦑" src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/github-metrics.svg"><br>
+<img  width="300" alt="🦑" src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/metrics.plugin.isocalendar.fullyear.svg">
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ahtisham-1214&theme=dark_lover)](https://github.com/Ahtisham-1214/github-profile-trophy) -->
 
 
