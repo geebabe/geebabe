@@ -22,12 +22,10 @@
 </p>
 
 <img src="assets/line.gif" height="20" width="100%">
+<img width="390" alt="🦑" src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/github-metrics.svg"><img src="assets/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right"><br>
+<img  width="390" alt="🦑" src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/main/metrics.plugin.isocalendar.fullyear.svg">
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ahtisham-1214&theme=dark_lover)](https://github.com/Ahtisham-1214/github-profile-trophy) -->
-**💫 About Me:** <img src="assets/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ I'm an AI/ML enthusiast<br>
-⚡ Exploring multiple tech stacks<br>
-📫 My interest lie in Web development<br>
-👯 Love Java don't know why<br><br><br><br><br><br><br><br><br><br>
+
 
 **💻Tech Stack:**<br><br>
 <p>
