@@ -1,4 +1,6 @@
 name: generate 3d chart for profile contributions
+permissions:
+  contents: write
 
 on:
   # run automatically every 24 hours
