@@ -40,7 +40,7 @@
         "type": "normal",
         "fileName": "profile-green-dual.svg",
         "backgroundColor": "rgba(0,0,0,0)",
-        "foregroundColor": "#ff79c6",
+        "foregroundColor": "#e8df7a",
         "strongColor": "#e8df7a",
         "weakColor": "#e8df7a",
         "radarColor": "#ff79c6",
@@ -55,7 +55,7 @@
         "darkMode": {
             "type": "normal",
             "backgroundColor": "rgba(0,0,0,0)",
-            "foregroundColor": "#ff79c6",
+            "foregroundColor": "#e8df7a",
             "strongColor": "#e8df7a",
             "weakColor": "#e8df7a",
             "radarColor": "#ff79c6",
