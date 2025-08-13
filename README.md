@@ -83,7 +83,7 @@
 </h2>
 <p>
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ahtisham-1214&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Ahtisham's%20Most%20Used%20Languages"><img src="https://github-readme-stats.vercel.app/api?username=Ahtisham-1214&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true"><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Ahtisham's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats.vercel.app/api?username=Ahtisham-1214&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahtisham-1214&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahtisham-1214&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahtisham-1214&theme=omni&utcOffset=+5" width="33%"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahtisham-1214&theme=omni" width="100%">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahtisham-1214&point=e8df7a&title_color=e8df7a&bg_color=191622&line=ff7ac7&hide_border=true">
@@ -115,13 +115,13 @@
 <details open> 
   <summary><h2>📌 Pinned</h2></summary>
     <a href="https://github.com/Ahtisham-1214/Expense-Tracker-Flutter.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Expense-Tracker-Flutter&theme=omni" alt="Expense-Tracker-Flutter">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Expense-Tracker-Flutter&theme=omni&text_color=e8df7a" alt="Expense-Tracker-Flutter">
 </a>
 <a href="https://github.com/Ahtisham-1214/Encryption-And-Description-using-Flask.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Encryption-Description&theme=omni" alt="Encryption & Decrption">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Encryption-Description&theme=omni&text_color=e8df7a" alt="Encryption & Decrption">
 </a>
 <a href="https://github.com/Ahtisham-1214/TailorManagementWeb.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=TailorManagementWeb&theme=omni" alt="Tailor Management Web App">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=TailorManagementWeb&theme=omni&text_color=e8df7a" alt="Tailor Management Web App">
 </a>    
 </details> 
 <hr>
