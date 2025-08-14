@@ -17,7 +17,9 @@
     </a>&nbsp;&nbsp;
     <a href="https://mail.google.com/mail/?view=cm&to=ahtishamshaikh1214@gmail.com">
         <img src="assets/mygmail.png" height="40" alt="Gmail">
-    </a>
+    </a>&nbsp;&nbsp;
+    <a href="https://x.com/Ahtisham1214">
+        <img src="assets/mytwitter.png" height="38" alt="X">
 
 </p>
 
