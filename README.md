@@ -106,7 +106,10 @@
   <summary><h2>📕 Projects I've Contributed To</h2></summary>
    <p align="left">
     <a href="https://github.com/asmahussain48/Ecommerce-Large-GUI-Based_-working-on-it-">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=E-commerce-Java&theme=omni&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=E-commerce-Java&theme=omni&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
+</a>
+<a href="https://github.com/Haziq8900/Bank-Management-System">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Haziq8900&repo=Bank-Management-System&theme=omni&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
 </a>
   </p>
 
@@ -166,9 +169,9 @@
 @@       o o                                           @@
 @@       | |                                           @@
 @@      _L_L_                                          @@
-@@   ❮\/__-__\/❯  Even a brick wants to be something   @@
-@@   ❮(|~o.o~|)❯        Die Trying!                    @@
-@@   ❮/ \`-'/ \❯                                       @@
+@@   ❮\/__-__\/❯  A habit missed once is a mistake,    @@
+@@   ❮(|~o.o~|)❯    A habit missed twice is a start    @@
+@@   ❮/ \`-'/ \❯          of new habit!                @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
 @@   / /     \ \    | while( ! (succed=try() ) ) |     @@
