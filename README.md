@@ -89,7 +89,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Ahtisham's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats.vercel.app/api?username=Ahtisham-1214&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahtisham-1214&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahtisham-1214&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahtisham-1214&theme=omni&utcOffset=+5" width="33%"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahtisham-1214&theme=omni" width="100%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahtisham-1214&point=e8df7a&title_color=e8df7a&bg_color=191622&line=ff7ac7&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahtisham-1214&point=e8df7a&title_color=e8df7a&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a">
     <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
     <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/snake/github-snake-dark.svg" width="100%"><br>
     <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
