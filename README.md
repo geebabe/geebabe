@@ -76,6 +76,9 @@
     <a href="https://leetcode.com/u/Ahtisham1214/">
     <img src="https://leetcard.jacoblin.cool/Ahtisham1214?theme=unicorn&ext=heatmap">
     </a>
+    <br>
+    <a href="assets/50daysproof.png">
+    <img src="assets/50days.png" height="100"></a>
 </p>
 
 <h2 style="color:#e8df7a; display: flex; align-items: center;">
