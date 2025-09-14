@@ -99,7 +99,7 @@
 </p>
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=191622&symbolColor=e8df7a">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
 
 <hr>
 
@@ -112,7 +112,7 @@
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=E-commerce-Java&theme=omni&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
 </a>
 <a href="https://github.com/Haziq8900/Bank-Management-System">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Haziq8900&repo=Bank-Management-System&theme=omni&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Haziq8900&repo=Bank-Management-System&theme=omni&hide_border=true&icon_color=F8D866&bg_color=&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
 </a>
   </p>
 
