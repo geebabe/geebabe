@@ -88,7 +88,7 @@
     
 </h2>
 <p>
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ahtisham-1214&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Ahtisham-1214&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a&background=0000"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahtisham-1214&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Ahtisham's%20Most%20Used%20Languages&text_color=e8df7a&bg_color=0000"><img src="https://github-readme-stats.vercel.app/api?username=Ahtisham-1214&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a&bg_color=0000"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahtisham-1214&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahtisham-1214&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahtisham-1214&theme=omni&utcOffset=+5" width="33%"><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahtisham-1214&theme=omni" width="100%">
@@ -109,10 +109,10 @@
   <summary><h2>📕 Projects I've Contributed To</h2></summary>
    <p align="left">
     <a href="https://github.com/asmahussain48/Ecommerce-Large-GUI-Based_-working-on-it-">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=E-commerce-Java&theme=omni&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=E-commerce-Java&theme=omni&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false&bg_color=0000" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
 </a>
 <a href="https://github.com/Haziq8900/Bank-Management-System">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Haziq8900&repo=Bank-Management-System&theme=omni&hide_border=true&icon_color=F8D866&bg_color=&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
+  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Haziq8900&repo=Bank-Management-System&theme=omni&hide_border=true&icon_color=F8D866&bg_color=0000&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
 </a>
   </p>
 
@@ -124,13 +124,13 @@
 <details open> 
   <summary><h2>📌 Pinned</h2></summary>
     <a href="https://github.com/Ahtisham-1214/Expense-Tracker-Flutter.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Expense-Tracker-Flutter&theme=omni&text_color=e8df7a&hide_border=true" alt="Expense-Tracker-Flutter">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Expense-Tracker-Flutter&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Expense-Tracker-Flutter">
 </a>
 <a href="https://github.com/Ahtisham-1214/Encryption-And-Description-using-Flask.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Encryption-Description&theme=omni&text_color=e8df7a&hide_border=true" alt="Encryption & Decrption">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=Encryption-Description&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Encryption & Decrption">
 </a>
 <a href="https://github.com/Ahtisham-1214/TailorManagementWeb.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=TailorManagementWeb&theme=omni&text_color=e8df7a&hide_border=true" alt="Tailor Management Web App">
+ <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahtisham-1214&repo=TailorManagementWeb&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Tailor Management Web App">
 </a>    
 </details> 
 <hr>
