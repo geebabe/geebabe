@@ -59,6 +59,9 @@
     <img src="assets/IntelliJIDEA.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/PyCharm.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/androidstudio.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/word.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/excel.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/powerpoint.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/vsCode.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/copilot.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/jupyter.png" height="40"/>&nbsp;&nbsp;
