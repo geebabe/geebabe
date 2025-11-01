@@ -198,8 +198,7 @@
 
 [![committers.top badge](https://user-badge.committers.top/pakistan_public/Ahtisham-1214.svg)](https://user-badge.committers.top/pakistan_public/Ahtisham-1214)<br>
 [![committers.top badge](https://user-badge.committers.top/pakistan/Ahtisham-1214.svg)](https://user-badge.committers.top/pakistan/Ahtisham-1214)<br>
-[![committers.top badge](https://user-badge.committers.top/pakistan_private/Ahtisham-1214.svg)](https://user-badge.committers.top/pakistan_private/Ahtisham-1214)<br>
-<img src="https://komarev.com/ghpvc/?username=Ahtisham-1214&color=ff79c6&style=plastic">
+[![committers.top badge](https://user-badge.committers.top/pakistan_private/Ahtisham-1214.svg)](https://user-badge.committers.top/pakistan_private/Ahtisham-1214)
 <br>
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150" align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
 <img src="assets/footer.svg" width="100%">
