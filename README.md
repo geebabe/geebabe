@@ -1,5 +1,7 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!&font=Fira%20Code&center=true&width=440&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
+    <a href="https://github.com/Ahtisham-1214">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!;Top+10+GitHub+Committer+in+Pakistan;Top+10+LeetCoder+in+Pakistan&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
+    </a>
 </p>
 <!--- Adding Header Elements -->
 <p align="center">
