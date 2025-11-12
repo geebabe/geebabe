@@ -67,7 +67,7 @@
     <img src="assets/vsCode.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/copilot.png" height="40"/>&nbsp;&nbsp;
     <img src="assets/jupyter.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/colab-color.png" height="40"/>&nbsp;&nbsp;
+    <img src="assets/colab.png" height="40"/>&nbsp;&nbsp;
     <br><br><br>
     <img src="assets/databases.png" height="40">&nbsp;&nbsp;&nbsp;<b>Databases :</b>&nbsp;&nbsp;&nbsp;<img src="assets/mysql.png" height="40">
 </p><br><br>
