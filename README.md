@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/geebabe">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!;Top+10+GitHub+Committer+in+Pakistan;Top+10+LeetCoder+in+Pakistan&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there!%20I'm%20Chi,%20an%20AI%20Engineer%20from%20Vietnam&font=Fira%20Code&center=true&width=640&height=45&color=2ecc71&vCenter=true&pause=1000&size=30" />
     </a>
 </p>
 <!--- Adding Header Elements -->
@@ -92,7 +92,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=geebabe&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
     <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
     <img src="https://raw.githubusercontent.com/geebabe/geebabe/snake/github-snake-dark.svg" width="100%"><br>
-    <img src="https://raw.githubusercontent.com/geebabe/geebabe/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/>
+    <!-- <img src="https://raw.githubusercontent.com/geebabe/geebabe/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/> -->
 </p>
 
 <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
