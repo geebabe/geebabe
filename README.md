@@ -97,8 +97,8 @@
     <!-- <img src="https://raw.githubusercontent.com/geebabe/geebabe/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/> -->
 </p>
 
-<h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a">
+<!-- <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a"> -->
 
 <hr>
 
@@ -192,10 +192,10 @@
    -->
 </div>
 <img src="assets/line.gif" height="100" width="100%">
-
+<!-- 
 [![committers.top badge](https://user-badge.committers.top/pakistan_public/geebabe.svg)](https://user-badge.committers.top/pakistan_public/geebabe)<br>
 [![committers.top badge](https://user-badge.committers.top/pakistan/geebabe.svg)](https://user-badge.committers.top/pakistan/geebabe)<br>
-[![committers.top badge](https://user-badge.committers.top/pakistan_private/geebabe.svg)](https://user-badge.committers.top/pakistan_private/geebabe)
+[![committers.top badge](https://user-badge.committers.top/pakistan_private/geebabe.svg)](https://user-badge.committers.top/pakistan_private/geebabe) -->
 <br>
 <img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150" align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40">
 <img src="assets/footer.svg" width="100%">
