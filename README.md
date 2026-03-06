@@ -11,7 +11,9 @@
 </p>
 
 <img src="assets/line.gif" height="20" width="100%">
-<img src="assets/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right"><img width="300" alt="🦑" src="https://raw.githubusercontent.com/geebabe/geebabe/main/github-metrics.svg"><br>
+<img src="assets/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right">
+<!-- <img width="300" alt="🦑" src="https://raw.githubusercontent.com/geebabe/geebabe/main/github-metrics.svg"> -->
+<br>
 <img  width="300" alt="🦑" src="https://raw.githubusercontent.com/geebabe/geebabe/main/metrics.plugin.isocalendar.fullyear.svg">
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=geebabe&theme=dark_lover)](https://github.com/geebabe/github-profile-trophy) -->
 
