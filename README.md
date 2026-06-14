@@ -1,202 +1,221 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                     NGUYEN MINH CHI · AI ENGINEER                    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
 <p align="center">
-    <a href="https://github.com/geebabe">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there!%20I'm%20Chi,%20an%20AI%20Engineer%20from%20Vietnam&font=Fira%20Code&center=true&width=640&height=45&color=2ecc71&vCenter=true&pause=1000&size=30" />
-    </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a14,40:1a0033,75:001a33,100:00f5ff&height=200&section=header&text=Nguyen%20Minh%20Chi&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20//%20LLM%20//%20RAG%20//%20Agentic%20Systems&descAlignY=58&descSize=14&descColor=00f5ff" width="100%"/>
 </p>
-<!--- Adding Header Elements -->
+
 <p align="center">
-    <a href="https://www.linkedin.com/in/nguyen-minh-chi-phoenix/">
-        <img src="assets/mylinkedIn.png" height="40" alt="LinkedIn">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/geebabe">
+    <img src="https://readme-typing-svg.demolab.com/?lines=%3E+initializing+neural+stack...;%3E+fine-tuning+multilingual+models+with+QLoRA;%3E+shipping+multi-agent+RAG+pipelines;%3E+based+in+Hanoi+//+open+to+research+collab&font=JetBrains+Mono&center=true&width=720&height=40&color=00f5ff&vCenter=true&pause=1500&size=18" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nguyen-minh-chi-phoenix/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0a0a14" />
+  </a>
+  <a href="https://huggingface.co/chillies">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=0a0a14&labelColor=0a0a14" />
+  </a>
+  <a href="https://leetcode.com/u/chilliest__/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=00f5ff&labelColor=0a0a14" />
+  </a>
+  <a href="https://github.com/geebabe">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=00f5ff&labelColor=0a0a14" />
+  </a>
+  <a href="mailto:minhchi1804@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=00f5ff&labelColor=0a0a14" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=geebabe&label=visitors&color=00f5ff&style=for-the-badge&labelColor=0a0a14" />
+  <img src="https://img.shields.io/badge/location-Hanoi%2C%20Vietnam-ff2a6d?style=for-the-badge&labelColor=0a0a14" />
+  <img src="https://img.shields.io/badge/status-open%20to%20research%20collab-9d4edd?style=for-the-badge&labelColor=0a0a14" />
 </p>
 
 <img src="assets/line.gif" height="20" width="100%">
-<img src="assets/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right">
-<!-- <img width="300" alt="🦑" src="https://raw.githubusercontent.com/geebabe/geebabe/main/github-metrics.svg"> -->
-<br>
-<img  width="300" alt="🦑" src="https://raw.githubusercontent.com/geebabe/geebabe/main/metrics.plugin.isocalendar.fullyear.svg">
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=geebabe&theme=dark_lover)](https://github.com/geebabe/github-profile-trophy) -->
 
+<!-- ──────────────────────────  ABOUT  ────────────────────────── -->
 
-**💻Tech Stack:**<br><br>
-<p>
-<b>Languages:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/c.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/c++.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/html.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/css.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/javascript.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/java.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/python.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/dart.png" height="40"/>&nbsp;&nbsp;
-    <br><br><br>
-<b>Libraries & Frameworks:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/react.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/springboot.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/flutter.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/numpy.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/keras.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/tensorflow.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/pandas.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/pytorch.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/scikit-learn.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/matplotlib.png" height="40"/><br><br><br>
-    <b>Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/git.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/githubicon.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/CLion.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/IntelliJIDEA.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/PyCharm.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/androidstudio.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/antigravity.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/word.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/excel.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/powerpoint.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/vsCode.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/copilot.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/jupyter.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/colab.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/Postman.svg" height="40"/>&nbsp;&nbsp;
-    <img src="assets/512x512.svg" height="40"/>&nbsp;&nbsp;
-    <img src="assets/Ubuntu.svg" height="40"/>&nbsp;&nbsp;
-    <img src="assets/linux.png" height="40"/>&nbsp;&nbsp;
-    <br><br><br>
-    <img src="assets/databases.png" height="40">&nbsp;&nbsp;&nbsp;<b>Databases :</b>&nbsp;&nbsp;&nbsp;<img src="assets/mysql.png" height="40">
-</p><br><br>
+## `◢` whoami
 
-<h2 style="color:#e8df7a; display: flex; align-items: center;">
-    <a href="https://leetcode.com/u/chilliest__/" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="assets/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
-        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
-</h2>
-
-<p>
-    <a href="https://leetcode.com/u/chilliest__//">
-    <img src="https://leetcard.jacoblin.cool/chilliest__?theme=unicorn&ext=heatmap">
-    </a>
-    <br>
-    <a href="assets/50daysproof.png">
-    <img src="assets/50days.png" height="100"></a>
-</p>
-
-<h2 style="color:#e8df7a; display: flex; align-items: center;">
-    <a href="https://github.com/geebabe" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="assets/github_social media_icon.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
-        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
-
-    
-</h2>
-<p>
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=geebabe&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"><br>
-    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=geebabe&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Chi's%20Most%20Used%20Languages&text_color=e8df7a"><img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=geebabe&show_icons=f&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=geebabe&theme=omni&exclude={}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geebabe&theme=omni&exclude={exclude}" width="33%"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=geebabe&theme=omni&utcOffset=+5" width="33%"><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geebabe&theme=omni" width="100%">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=geebabe&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a">
-    <p align="center"><img src="assets/snakegridtitle.gif" width="500" ></p>
-    <img src="https://raw.githubusercontent.com/geebabe/geebabe/snake/github-snake-dark.svg" width="100%"><br>
-    <!-- <img src="https://raw.githubusercontent.com/geebabe/geebabe/output-3d-contrib/profile-green-dual.svg" alt="3D Contributions"/> -->
-</p>
-
-<!-- <h3 style="color:#e8df7a;">✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&quoteColor=ff79c6&authorColor=d8d8dd&backgroundColor=RRGGBBAA&symbolColor=e8df7a"> -->
-
-<hr>
-
-
-
-<!-- 
-<details open> 
-  <summary><h2>📕 Projects I've Contributed To</h2></summary>
-   <p align="left">
-    <a href="https://github.com/asmahussain48/Ecommerce-Large-GUI-Based_-working-on-it-">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=asmahussain48&repo=E-commerce-Java&theme=omni&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
-</a>
-<a href="https://github.com/Haziq8900/Bank-Management-System">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Haziq8900&repo=Bank-Management-System&theme=omni&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Ecommerce-Large-GUI-Based_-working-on-it-">
-</a>
-  </p>
-
-  <p align="left">
-    <a href="https://github.com/geebabe?tab=repositories&type=fork"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Forks-1F222E?style=for-the-badge&logoColor=e8df7a&logo=fork"/></a>
-  </p>
-</details> 
--->
-<!-- <details open> 
-  <summary><h2>📌 Pinned</h2></summary>
-    <a href="https://github.com/geebabe/Expense-Tracker-Flutter.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=geebabe&repo=Expense-Tracker-Flutter&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Expense-Tracker-Flutter">
-</a>
-<a href="https://github.com/geebabe/Encryption-And-Description-using-Flask.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=geebabe&repo=Encryption-Description&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Encryption & Decrption">
-</a>
-<a href="https://github.com/geebabe/TailorManagementWeb.git">
- <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=geebabe&repo=TailorManagementWeb&theme=omni&text_color=e8df7a&hide_border=true&bg_color=0000" alt="Tailor Management Web App">
-</a>    
-</details> 
-<hr> -->
-<!-- 
-<details open> 
-  <summary><h2>★ Certificates & Acheivements</h2></summary>
-    <a href="assets/google-ai-essentials.png">
- <img width="200" src="assets/google-ai-essentials.png">
-</a><br>
-<a href="assets/internship.png">
- <img width="150" src="assets/internship.png">
-</a>
-<a href="assets/githubworkshop.jpg">
- <img width="150" src="assets/githubworkshop.jpg">
-</a>
-<a href="assets/Linkedinworkshop.png">
- <img width="150" src="assets/Linkedinworkshop.png">
-</a>
-<a href="assets/pandasworkshop.png">
- <img width="150" src="assets/pandasworkshop.png">
-</a><br>  
-<a href="assets/mlsapython.jpg">
- <img width="150" src="assets/mlsapython.jpg">
-</a>
-<a href="assets/mlsaAI.jpg">
- <img width="150" src="assets/mlsaAI.jpg">
-</a>
-<a href="assets/mlsaML.jpg">
- <img width="150" src="assets/mlsaML.jpg">
-</a>
-<a href="assets/sibafest.jpg">
- <img width="150" src="assets/sibafest.jpg">
-</a>   
-</details> 
--->
-<img src="assets/line.gif" width="100%" height="100">
-<!-- <div align="center"> -->
-
-<!-- ```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯  A habit missed once is a mistake,    @@
-@@   ❮(|~o.o~|)❯    A habit missed twice is a start    @@
-@@   ❮/ \`-'/ \❯          of new habit!                @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```python
+class Chi:
+    role        = "AI Engineer"
+    company     = "VinBigData"  # Top 8% of 900+ applicants
+    location    = "Hanoi, Vietnam"
+    focus       = ["LLM applications", "RAG systems", "agentic workflows"]
+    research    = ["low-resource NLP", "efficient inference",
+                   "robust AI for multilingual / resource-constrained settings"]
+    shipped     = "production document-AI @ 2,000+ invoices/day"
 ```
-   -->
-<!-- </div> -->
-<!-- <img src="assets/line.gif" height="100" width="100%"> -->
-<!-- 
-[![committers.top badge](https://user-badge.committers.top/pakistan_public/geebabe.svg)](https://user-badge.committers.top/pakistan_public/geebabe)<br>
-[![committers.top badge](https://user-badge.committers.top/pakistan/geebabe.svg)](https://user-badge.committers.top/pakistan/geebabe)<br>
-[![committers.top badge](https://user-badge.committers.top/pakistan_private/geebabe.svg)](https://user-badge.committers.top/pakistan_private/geebabe) -->
-<!-- <br>
-<img src="https://media.giphy.com/media/2fC8cduAc35UIAxHDE/giphy.gif" width="150" align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://c.tenor.com/3dgbcMt6Kx4AAAAi/spider-insect.gif" width="40"> -->
-<img src="assets/footer.svg" width="100%">
+
+> AI engineer building **LLM applications, RAG systems, and agentic workflows**.
+> I fine-tune multilingual models, design retrieval pipelines, and deploy production
+> document-AI services. My research interest sits at the intersection of
+> **low-resource NLP**, **efficient inference**, and **robust AI systems** for
+> multilingual and resource-constrained settings.
+
+- `🛰` **Currently @ VinBigData** — two research-oriented rotations: a production conversational AI system (intent classification, dialogue state management) + a ground-up multi-agent orchestration framework for enterprise workflow automation.
+- `🧪` **Previously @ IMT Solutions** — internal RAG chatbot, containerized document services with FastAPI + Docker, Qwen2.5-VL & YOLO for layout-aware extraction, Airflow + PySpark ETL.
+- `🌱` **Earlier @ FPT Software** — fine-tuned BERT / RoBERTa on Vietnamese corpora for comment classification.
+
+<img src="assets/line.gif" height="20" width="100%">
+
+<!-- ──────────────────────────  FEATURED  ────────────────────────── -->
+
+## `◤` featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `[01]` Agentic RAG · Vietnamese Legal QA
+`Jun 2025 — Oct 2025`
+
+Dual-layer RAG architecture for Vietnamese legal QA with **structure-aware chunking**, metadata-enriched retrieval, and procedural templates for multi-step statutory queries.
+
+- Fine-tuned **Llama 3 8B** and **Mistral 7B** with **QLoRA (4-bit)** on curated Vietnamese legal Q&A
+- Multi-agent pipeline: routing → retrieval → guardrails → validation → caching
+- Benchmarked against single-step RAG baseline; cross-document error analysis
+
+<sub>`LangGraph` · `QLoRA` · `Qdrant` · `Llama 3` · `Mistral`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### `[02]` Intelligent Document Processing
+`Jan 2025 — Jun 2025`
+
+Async **FastAPI** service parallelizing OCR + LLM inference, cutting end-to-end latency by **~70%** on multi-page documents.
+
+- Hybrid routing across **Qwen2.5-VL**, YOLO layout detection, and OCR engines — chosen by layout complexity, cost, extraction uncertainty
+- Production pipeline: **2,000+ invoices/day** (5,000+ peak)
+- **>95%** field-level accuracy, **<7s/page** latency
+
+<sub>`FastAPI` · `Qwen2.5-VL` · `YOLO` · `Docker` · `PySpark`</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="assets/line.gif" height="20" width="100%">
+
+<!-- ──────────────────────────  STACK  ────────────────────────── -->
+
+## `⌬` stack
+
+**`▸ LLM & Agents`**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=00f5ff)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00f5ff)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FFB000?style=for-the-badge&logoColor=0a0a14)
+![DSPy](https://img.shields.io/badge/DSPy-ff2a6d?style=for-the-badge&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-00f5ff?style=for-the-badge&logoColor=0a0a14)
+![HF Transformers](https://img.shields.io/badge/HF%20Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=0a0a14)
+![Mem0](https://img.shields.io/badge/Mem0-9d4edd?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**`▸ Deep Learning & Models`**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen%20Family-615ced?style=for-the-badge&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama%203-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FA520F?style=for-the-badge&logo=mistralai&logoColor=white)
+
+**`▸ Serving & MLOps`**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+**`▸ Vector & Data Stores`**
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A7E1?style=for-the-badge&logo=milvus&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+**`▸ Languages`**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0a0a14)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+<img src="assets/line.gif" height="20" width="100%">
+
+<!-- ──────────────────────────  RECOGNITION  ────────────────────────── -->
+
+## `✦` recognition
+
+| Year | Honor | For |
+|:----:|:------|:----|
+| `2025` | **Top 8%** — VinBigData AI Engineer Training Program | Selected from 900+ applicants |
+| `2024` | **Third Prize · National Semifinalist** — University Research & Eureka | AI-Powered Mental Health Counseling System |
+| `2024` | **Promising Innovation Award** — VietFuture Innovation & Entrepreneurship | *LegalMind* — legal precedent retrieval & judgment drafting |
+| `2022` | **Merit Award** — MakeCode Arcade Game Design | — |
+
+**Certifications** &nbsp;
+![IELTS](https://img.shields.io/badge/IELTS-7.0-00f5ff?style=flat-square&labelColor=0a0a14)
+![DL Specialization](https://img.shields.io/badge/Coursera-Deep%20Learning-ff2a6d?style=flat-square&labelColor=0a0a14)
+![NLP Specialization](https://img.shields.io/badge/Coursera-NLP-ff2a6d?style=flat-square&labelColor=0a0a14)
+![TF Developer](https://img.shields.io/badge/TensorFlow-Developer-FF6F00?style=flat-square&labelColor=0a0a14)
+![GenAI LLMs](https://img.shields.io/badge/DeepLearning.AI-GenAI%20w%2F%20LLMs-9d4edd?style=flat-square&labelColor=0a0a14)
+
+<img src="assets/line.gif" height="20" width="100%">
+
+<!-- ──────────────────────────  STATS  ────────────────────────── -->
+
+## `▮` telemetry
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=geebabe&theme=tokyonight&hide_border=true&background=0a0a14&stroke=00f5ff&ring=ff2a6d&fire=ff2a6d&currStreakLabel=00f5ff&sideNums=00f5ff&dates=9d4edd&sideLabels=00f5ff" width="80%">
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=geebabe&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=most%20used%20languages&title_color=00f5ff&text_color=ffffff&bg_color=0a0a14">
+  <img height="180" src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=geebabe&show_icons=true&rank_icon=github&hide_border=true&title_color=00f5ff&text_color=ffffff&icon_color=ff2a6d&bg_color=0a0a14">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geebabe&point=ff2a6d&title_color=00f5ff&bg_color=0a0a14&line=00f5ff&hide_border=true&area=true&area_color=9d4edd&color=00f5ff" width="95%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geebabe/geebabe/snake/github-snake-dark.svg" width="100%">
+</p>
+
+<img src="assets/line.gif" height="20" width="100%">
+
+<!-- ──────────────────────────  LEETCODE  ────────────────────────── -->
+
+## `◤` leetcode
+
+<p align="center">
+  <a href="https://leetcode.com/u/chilliest__/">
+    <img src="https://leetcard.jacoblin.cool/chilliest__?theme=dark&ext=heatmap&font=JetBrains%20Mono" width="80%">
+  </a>
+</p>
+
+<img src="assets/line.gif" height="20" width="100%">
+
+<!-- ──────────────────────────  FOOTER  ────────────────────────── -->
+
+<p align="center">
+  <i>"The art of progress is to preserve order amid change, and to preserve change amid order."</i><br>
+  <sub>— A. N. Whitehead</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,40:001a33,75:1a0033,100:0a0a14&height=120&section=footer" width="100%"/>
+</p>
